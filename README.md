@@ -32,5 +32,3 @@ I like building things that connect **research and real-world systems** — from
 - **LinkedIn:** [linkedin.com/in/shifanaaz-fazalur-32795b294](https://www.linkedin.com/in/shifanaaz-fazalur-32795b294/)  
 - **GitHub:** [ShifanaazFazalur](https://github.com/ShifanaazFazalur)  
 
----
-⭐️ *"Always learning, always building."*
