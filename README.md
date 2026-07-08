@@ -1,34 +1,39 @@
+<div align="center">
+
 # Hi, I'm Shifa 👋
 
-🎓 **Computer Science student** @ UC Davis (2023–2026)  
-💡 Interested in **software development**, **machine learning**, and **robotics perception**  
-💻 Comfortable with **C, C++, Python, R, Java**  
+**M.S. Network Systems, UC Irvine (Sep 2026)** · **B.S. Computer Science, UC Davis (3.8 GPA)**
+
+🟢 **Open to Fall 2026 & Summer 2027 internships** — Software Engineering · ML/AI · Networking & Robotics Perception
+
+📫 [Email](mailto:shifanaaz.faz.cs@gmail.com) · [LinkedIn](https://www.linkedin.com/in/shifanaaz-fazalur-32795b294/) · [Portfolio](https://shifanaazfazalur.github.io/portfolio/) · [GitHub](https://github.com/ShifanaazFazalur)
+
+</div>
 
 ---
 
-## 🔹 About Me
+### ⚡ Highlights
 
-I like building things that connect **research and real-world systems** — from visual SLAM on drones to network system.
+- 🧠 Fine-tuned BERT/RoBERTa to **87% macro-F1** (+22.5% over baseline) — Davis DataLab
+- 📡 Automated WiFi regression testing on drone/FPGA systems, **cutting test time ~60%** — Quadcopter AR Lab
+- 👁️ Trained a CNN for waste classification at **93% accuracy** on 25K+ images
+- 🎤 Taught ML workshops to **300+ students**, grew club sign-ups **3x**
 
-- Experience with **visual SLAM–based AR drone systems** using Intel RealSense T265 + NVIDIA Jetson (Ubuntu, C++/CMake).  
-- Built **NLP pipelines** in R/Python using transformer models (BERT/RoBERTa) on environmental policy text.  
-- Developed **ML-backed web applications** (Flask) for prediction and data-driven decision-making.  
-- Strong foundations in **algorithms, data structures, systems, and computer architecture**.
+### 🛠️ Tech Stack
 
----
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 🔹 Featured Projects
+### 🚀 Projects
 
-- **[Portfolio Website](https://shifanaazfazalur.github.io/portfolio/)** – Showcasing my projects, skills, and research.  
-- **Visual SLAM AR Drone System** – Real-time 6-DoF pose tracking and AR visualization with Intel RealSense + Jetson.  
-- **NLP for Environmental Governance** – Transformer-based analysis of 500+ government policy comments.  
-- **Student Success Prediction Web App** – Flask app using neural networks and tree-based models to forecast exam scores.  
+- **[Portfolio](https://shifanaazfazalur.github.io/portfolio/)** — all my work in one place
+- **LLM Agent Digest** — fine-tuned DistilBERT + Llama 3.2 pipeline that summarizes daily tech news
+- **Waste Classification (CV)** — MobileNetV2 + CNNs, 93% top-1 accuracy on 25K+ images
+- **Visual SLAM AR Drone** — real-time 6-DoF pose tracking on Jetson + RealSense T265
 
----
-
-## 📬 Connect with Me
-
-- **Email:** [sfazalur@ucdavis.edu](mailto:sfazalur@ucdavis.edu)  
-- **LinkedIn:** [linkedin.com/in/shifanaaz-fazalur-32795b294](https://www.linkedin.com/in/shifanaaz-fazalur-32795b294/)  
-- **GitHub:** [ShifanaazFazalur](https://github.com/ShifanaazFazalur)  
-
+🏅 Dean's Honor List · LinkedIn Learning (Applied ML) · Cisco (Networking Basics)
