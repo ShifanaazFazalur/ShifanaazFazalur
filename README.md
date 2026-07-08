@@ -6,7 +6,7 @@
 
 🟢 **Open to Fall 2026 & Summer 2027 internships** — Software Engineering · ML/AI · Networking & Robotics Perception
 
-📫 [Email](mailto:shifanaaz.faz.cs@gmail.com) · [LinkedIn](www.linkedin.com/in/shifanaaz-fazalur/) · [Portfolio](https://shifanaazfazalur.github.io/portfolio/) · [GitHub](https://github.com/ShifanaazFazalur)
+📫 [Email](mailto:shifanaaz.faz.cs@gmail.com) · [LinkedIn](www.linkedin.com/in/shifanaaz-fazalur) · [Portfolio](https://shifanaazfazalur.github.io/portfolio/) · [GitHub](https://github.com/ShifanaazFazalur)
 
 </div>
 
