@@ -6,7 +6,7 @@
 
 🟢 **Open to Fall 2026 & Summer 2027 internships** — Software Engineering · ML/AI · Networking & Robotics Perception
 
-📫 [Email](mailto:shifanaaz.faz.cs@gmail.com) · [LinkedIn](www.linkedin.com/in/shifanaaz-fazalur) · [Portfolio](https://shifanaazfazalur.github.io/portfolio/) · [GitHub](https://github.com/ShifanaazFazalur)
+📫 [Email](mailto:shifanaaz.faz.cs@gmail.com) · [LinkedIn](https://www.linkedin.com/in/shifanaaz-fazalur/) · [Portfolio](https://shifanaazfazalur.github.io/portfolio/) · [GitHub](https://github.com/ShifanaazFazalur)
 
 </div>
 
@@ -21,13 +21,10 @@
 
 ### 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+**Languages:** Python · C++ · Java · R · Go
+**ML/AI:** PyTorch · TensorFlow · Hugging Face Transformers · scikit-learn
+**Networking:** WiFi (802.11) · Wireshark · TCP/IP
+**Tools:** Git · FPGA · MLflow · VS Code
 
 ### 🚀 Projects
 
